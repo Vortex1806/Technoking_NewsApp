@@ -61,9 +61,6 @@ This Flutter news application provides a clean and modern dark-themed UI for acc
 
 <img src="flutter_02.png" alt="Screenshot 2" width="400">
 
-![Screenshot 1](flutter_01.png)
-![Screenshot 2](flutter_02.png)
-
 ### Contributing
 
 If you'd like to contribute to this project, please fork the repository and create a pull request. Make sure to follow the code style guidelines and write clear commit messages.
