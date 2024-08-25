@@ -57,9 +57,10 @@ This Flutter news application provides a clean and modern dark-themed UI for acc
     ```
 
 ### Screenshots
-<img src="assets/screenshots/screenshot1.png" alt="Screenshot 1" width="400">
+<img src="flutter_01.png" alt="Screenshot 1" width="400">
 
-<img src="assets/screenshots/screenshot2.png" alt="Screenshot 2" width="400">
+<img src="flutter_02.png" alt="Screenshot 2" width="400">
+
 ![Screenshot 1](flutter_01.png)
 ![Screenshot 2](flutter_02.png)
 
