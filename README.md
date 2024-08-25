@@ -58,8 +58,8 @@ This Flutter news application provides a clean and modern dark-themed UI for acc
 
 ### Screenshots
 
-![Screenshot 1](.flutter_01.png)
-![Screenshot 2](.flutter_02.png)
+![Screenshot 1](flutter_01.png)
+![Screenshot 2](flutter_02.png)
 
 ### Contributing
 
