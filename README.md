@@ -24,7 +24,7 @@ This Flutter news application provides a clean and modern dark-themed UI for acc
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Vortex1806/techno_king_newsAPP.git
+    git clone [https://github.com/Vortex1806/techno_king_newsAPP.git](https://github.com/Vortex1806/Technoking_NewsApp_flutter.git)
     ```
 
 2. Navigate to the project directory:
