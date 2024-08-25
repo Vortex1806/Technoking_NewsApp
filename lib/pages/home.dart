@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../backend/functions.dart';
 import '../components/AppBar.dart';
-import '../components/SearchBar.dart';
+import '../components/SearchBar.dart' as custom;
 import '../components/newsbox.dart';
 import '../utils/colors.dart';
 import '../utils/constants.dart';
@@ -31,7 +31,7 @@ class _HomeState extends State<Home> {
       appBar: appbar(),
       body: Column(
         children: [
-          SearchBar(),
+          custom.SearchBar(),
           Expanded(
               child: Container(
             width: w,
